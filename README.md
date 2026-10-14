@@ -13,3 +13,7 @@ Official code repository for "Git Interview Cookbook" by Maxat Akbanov
 Join the **Almaty DevOps Reading Club** Telegram channel to stay updated on new chapters, exercises, and discussions:
 
 👉 [t.me/devops_orbit](https://t.me/devops_orbit)
+
+## About the Author
+
+**Maxat Akbanov** is the author of "Git Interview Cookbook". Learn more at [maxat-akbanov.com/about](https://maxat-akbanov.com/about/).
