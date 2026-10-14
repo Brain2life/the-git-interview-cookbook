@@ -1,4 +1,4 @@
-# Homework: SVN Basics in Practice
+# Exercise: SVN Basics in Practice
 
 While reading Chapter 1 we met Git's older alternative, [Apache Subversion](https://subversion.apache.org/) (SVN). In this task you install SVN on an Ubuntu virtual machine and repeat the Git commands from Chapter 1 with their SVN analogues.
 
