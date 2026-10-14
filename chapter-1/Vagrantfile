@@ -1,0 +1,21 @@
+# Vagrantfile — SVN Basics Practice
+# Chapter 1: Core Git Concepts (Git alternative — Apache Subversion)
+#
+# The VM is intentionally left "empty": installing Subversion is part of the task.
+#
+#   vagrant up        # create and boot the VM
+#   vagrant ssh       # log in as user 'vagrant'
+#   vagrant destroy   # remove the VM when you are done
+
+Vagrant.configure("2") do |config|
+
+  config.vm.box      = "bento/ubuntu-22.04"
+  config.vm.hostname = "svn-lab"
+
+  config.vm.provider "virtualbox" do |vb|
+    vb.name   = "svn-basics-lab"
+    vb.cpus   = 1
+    vb.memory = 1024
+  end
+
+end
